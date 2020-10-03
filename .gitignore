@@ -1,6 +1,7 @@
 # Large files
 tweets.20150430-223406.json
 opus-train*
+cnn_dailymail-*
 
 # Editors
 .vscode/
