@@ -3,6 +3,7 @@ tweets.20150430-223406.json
 opus-train*
 cnn_dailymail-*
 squad-*
+data.json
 
 # Editors
 .vscode/
